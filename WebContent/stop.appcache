@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 2013-12-23: v1 
+CACHE:
+test.html
+bs.css
+stop.js
+js/worker.js
+Exo2-SemiBold.ttf
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.woff
+fonts/glyphicons-halflings-regular.ttf
+
+
